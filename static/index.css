@@ -1,0 +1,17 @@
+body {
+    margin: 0; 
+    height: 100vh; 
+    background-color: rgba(0, 0, 0, 0.77);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container p {color: white;
+    font-size: 1.2rem; 
+    box-shadow: 0 5px 5px -5px rgb(40, 152, 108);
+}

@@ -1,0 +1,1 @@
+Bu projede üçüncü parti yazılım veya bağımlılık kullanılmamaktadır.
