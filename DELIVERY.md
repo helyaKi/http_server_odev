@@ -5,7 +5,7 @@
         170422993
 
 ## 🔗 GitHub Repo Linki
-        
+        https://github.com/helyaKi/http_server_odev.git
 
 ## 📝 Açıklama
 
